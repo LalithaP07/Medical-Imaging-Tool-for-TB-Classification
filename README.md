@@ -22,11 +22,11 @@ I built a Convolutional Neural Network (CNN) that classifies chest X-rays as Nor
 
 🔍 What I Did:
 
-Preprocessed high-resolution grayscale images and resized them to 256×256 pixels.
-Built a deep CNN with multiple convolutional and max-pooling layers.
-Achieved 100% test accuracy (validated using stratified 80:20 split).
-Used binary_crossentropy loss and the Adam optimizer for binary classification.
-Visualized training progress using Matplotlib.
+- Preprocessed high-resolution grayscale images and resized them to 256×256 pixels.
+- Built a deep CNN with multiple convolutional and max-pooling layers.
+- Achieved 100% test accuracy (validated using stratified 80:20 split).
+- Used binary_crossentropy loss and the Adam optimizer for binary classification.
+- Visualized training progress using Matplotlib.
 
 📈 Results:
 
@@ -38,7 +38,7 @@ Visualized training progress using Matplotlib.
 
 🔜 Next Steps:
 
-Apply transfer learning using pre-trained models like ResNet or VGG.
-Experiment with Grad-CAM for X-ray heatmap visualization.
-Convert the model to ONNX and deploy it in a mobile app.
+- Apply transfer learning using pre-trained models like ResNet or VGG.
+- Experiment with Grad-CAM for X-ray heatmap visualization.
+- Convert the model to ONNX and deploy it in a mobile app.
 
